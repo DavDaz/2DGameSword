@@ -100,3 +100,8 @@ ExportedObj/
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
 .vsconfig
+Library/ArtifactDB
+Library/CurrentLayout-default.dwlt
+Library/CurrentMaximizeLayout.dwlt
+Library/SceneVisibilityState.asset
+Library/SourceAssetDB
